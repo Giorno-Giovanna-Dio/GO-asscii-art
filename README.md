@@ -2,20 +2,17 @@
 
 A small practice project for generating ASCII art in Go.
 
----
 
 ## Preview
 
 Here’s what the ASCII output looks like when you run it:
 
----
 
 ## Gopher Art
 
 ![Gopher ASCII Art](./gopher_ascii_art.png)
 ![Gopher ASCII Word](./gopher_ascii_word.png)
 
----
 
 ## Run Locally
 
@@ -31,7 +28,6 @@ then run :
 go run main.go --text="Hello Gopher!" --font="slant"
 ```
 
----
 
 ## Features
 - Generate ASCII art with multiple figlet fonts
@@ -39,7 +35,6 @@ go run main.go --text="Hello Gopher!" --font="slant"
 - Built using figlet4go
 - 100% Go, no dependencies outside the standard toolchain
 
----
 
 ## License
 MIT License © 2025 David Chung
